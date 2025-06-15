@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:launch_pad/widgets/launchpad_screen.dart';
-// import 'package:google_fonts/google_fonts.dart';
-// import 'package:audioplayers/audioplayers.dart';
 
 void main() {
   runApp(const MyApp());
